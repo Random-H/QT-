@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/ico">
+        <file>tb.ico</file>
+    </qresource>
+</RCC>
